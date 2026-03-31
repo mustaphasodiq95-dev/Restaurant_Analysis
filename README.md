@@ -78,6 +78,7 @@ Top orders are driven more by quantity and mix of items rather than single expen
 Evening periods tend to capture a significant portion of orders, indicating peak business hours.
 Some items generate high revenue despite not being the most frequently ordered—indicating premium pricing power.
 There is clear variation in average pricing across categories, which can inform pricing and positioning strategies.
+
 💡 Business Recommendations
 Menu Optimization
 Promote top-performing items prominently
