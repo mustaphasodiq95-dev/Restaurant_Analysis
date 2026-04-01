@@ -48,29 +48,30 @@ Contains product-level information:
 
 # 🛠️ Tools Used
 SQL (MySQL) – Data querying and analysis
-🔍 Analysis Breakdown
-1. Product Popularity Analysis
-Identified the most and least ordered items
-Extended analysis to include category-level context
-2. Revenue Analysis
-Calculated total spend per order
-Identified the top 5 highest-value orders
-Investigated the composition of high-value orders
-3. Order Composition Insights
-Analyzed which categories dominate high-spending orders
-Compared category contributions across top orders
-4. Time-Based Analysis
+
+# 🔍 Analysis Breakdown
+# 1. Product Popularity Analysis
+* Identified the most and least ordered items
+* Extended analysis to include category-level context
+# 2. Revenue Analysis
+* Calculated total spend per order
+* Identified the top 5 highest-value orders
+* Investigated the composition of high-value orders
+# 3. Order Composition Insights
+* Analyzed which categories dominate high-spending orders
+* Compared category contributions across top orders
+# 4. Time-Based Analysis
 Segmented orders into:
-Morning (<12:00)
-Afternoon (12:00–17:00)
-Evening (>17:00)
+* Morning (<12:00)
+* Afternoon (12:00–17:00)
+* Evening (>17:00)
 Measured order volume by time period
-5. Category Performance Analysis
+# 5. Category Performance Analysis
 Calculated:
 Average price per category
 Total revenue contribution per product
 Identified top-performing products
-6. Targeted Category Analysis
+# 6. Targeted Category Analysis
 Focused on Asian category performance
 Identified high-performing products exceeding revenue thresholds
 
